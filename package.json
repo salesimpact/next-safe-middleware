@@ -30,7 +30,6 @@
     "react": ">=17"
   },
   "dependencies": {
-    "@strict-csp/builder": "workspace:*",
     "cheerio": "^1.0.0-rc.10",
     "lockfile": "^1.0.4"
   },
