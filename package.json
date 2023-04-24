@@ -30,7 +30,7 @@
     "react": ">=17"
   },
   "dependencies": {
-    "@strict-csp/builder": "salesimpact/next-safe-strict-csp#8ccbaa77a095b1e5370d9a65f6fb28413829981a",
+    "@strict-csp/builder": "salesimpact/next-safe-strict-csp#0a4b2d12b2617b73ffcad781f2461f927068fd73",
     "cheerio": "^1.0.0-rc.10",
     "lockfile": "^1.0.4"
   },
